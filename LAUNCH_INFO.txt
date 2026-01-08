@@ -1,0 +1,25 @@
+
+# System Launch Info
+
+All systems are go!
+
+## 🌐 Web Application
+**URL:** http://localhost:3000
+**Status:** Running ✅
+
+## 🔌 API Backend
+**URL:** http://localhost:8000
+**Docs:** http://localhost:8000/docs
+**Status:** Running ✅
+**Model:** Loaded (ResNet-18 + Conditional U-Net)
+
+## 📁 Project Info
+**Model Path:** models/dehaze_model_best.pth (Recovered & Linked)
+**Dataset:** 55 pairs (512x512)
+
+## 🧪 Quick Test
+1. Open http://localhost:3000
+2. Upload a hazy image from 'data/hazy'
+3. Compare with original!
+
+**Note:** Video dehazing is a placeholder feature.
